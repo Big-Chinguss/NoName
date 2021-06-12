@@ -1,6 +1,6 @@
                                                                            //Working 
                                                                            
-                                                                           
+       **Dont forget to sort in asc**                                                                    
 1) Initialize a variable diff as infinite (Diff is used to store the 
    difference between pair and x).  We need to find the minimum diff.
 2) Initialize two index variables l and r in the given sorted array.
