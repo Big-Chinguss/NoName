@@ -1,0 +1,1 @@
+1. In problems having you to make a pair as such (a[i]+a[j]) should be closest to x, Always use abs() for taking distance b/w x and a[i]+a[j].
