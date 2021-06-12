@@ -25,7 +25,7 @@ int main(){
   int a[n],b[m];
         for(int i=0;i<m;i++)cin>>a[i];
         for(int i=0;i<n;i++)cin>>b[i];
-        
+        sort(a,a+m);sort(b,b+n);
 int l=0,r=n-1;
 int diff=INT_MAX;
 int resl,resr;
